@@ -5,7 +5,7 @@ A simple REST API to manage tasks — built with Python and FastAPI.
 ---
 🌐 Live Demo
 
-🔗 https://your-live-demo-link.com
+🔗  https://sakshimalkar.github.io/todo-api/
 
 ## 🛠️ Technologies & Skills Used
 
